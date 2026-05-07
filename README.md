@@ -1,7 +1,7 @@
 <h1 align="center">👑 KING SASKE </h1>
 
 <p align="center">
-  <img src="compressed_1778169407747.jpg" alt="king Saske" width="300" style="border-radius: 12px;" />
+  <img src="https://drive.google.com/file/d/13F3iK_6Bi980yJShXom8s9g2-2mHrThh/view" alt="king Saske" width="300" style="border-radius: 12px;" />
 </p>
 
 <p align="center">
