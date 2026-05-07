@@ -1,7 +1,7 @@
 <h1 align="center">👑 KING SASKE </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/compressed_1778169407747.jpg" alt="Queen Riam" width="300" style="border-radius: 12px;" />
+  <img src="compressed_1778169407747.jpg" alt="king Saske" width="300" style="border-radius: 12px;" />
 </p>
 
 <p align="center">
